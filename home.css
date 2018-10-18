@@ -1,0 +1,8 @@
+html, body {
+    background: url('https://c.wallhere.com/photos/b9/88/autumn_orange_fall_halloween_rotting_pumpkin_rotten-903506.jpg!d') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
