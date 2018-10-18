@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: center;
+}
+
+.round-circle {
+    border-radius: 50%;
+}
+
+#pumpkin1 {
+    background-image: url("../img/pumpkin1.png");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+
+}
+
+#pumpkin2 {
+    background-image: url("../img/pumpkin2.png");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+
+}
+
+#pumpkin3 {
+    background-image: url("../img/pumpkin3.png");
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+
+}
+
+.active {
+    color: #fff;
+}
+
+
+
